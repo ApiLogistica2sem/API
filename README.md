@@ -50,7 +50,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # *Equipe*
-![EQUIPE LOGFREE](https://github.com/LogThink1/logthink_documentacao/assets/144967585/c3acd1b8-da66-48cd-ae0d-e59a49ff97a2)
+
 
 
 # Objetivo do Projeto
