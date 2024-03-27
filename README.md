@@ -1,4 +1,4 @@
-![image](https://github.com/ApiLogistica2sem/API/assets/163214077/2a0368b7-7140-4838-aaa4-e37317ad0fca)![image](https://github.com/ApiLogistica2sem/API/assets/163214077/8563e9e0-4d28-4816-9f0f-ccdfadd37163)# LOGFREE Documentação
+# LOGFREE Documentação
 
 # *Aprendizado por Projeto Integrador (API) - LogThink*
 
