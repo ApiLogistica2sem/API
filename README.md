@@ -62,7 +62,6 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # *Análise SWOT da Empresa*
 ![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6) **FAZER**
-![Capturar](https://github.com/ApiLogistica2sem/API/assets/163214077/f900b5cd-2c07-46d6-a34f-25e2cffffe7b)
 
 
 # *5W2H*
@@ -79,22 +78,23 @@ Sprint 3
 
 
 # *Tecnologias Utilizadas*
-![workshop git](https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a) https://github.com/LogThink1/logthink_documentacao/assets/144967585/76fdeda9-acca-4146-b791-228a66eb1d1a 
+![Capturar](https://github.com/ApiLogistica2sem/API/assets/163214077/5b92117c-72e5-4b8e-978a-3b5783d8a23c)
+
 
 
  # Burndown
 # Sprint 01
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**
 
 # Sprint 02
- ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)
+ ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)**FAZER**
 
 # Sprint 03
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)**FAZER**
 
 
 # *Departamentalização*
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f1062fc8-4c1d-4de7-97e2-2d6d91c854e8)
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f1062fc8-4c1d-4de7-97e2-2d6d91c854e8)**FAZER**
 
 
 
@@ -105,24 +105,25 @@ Sprint 3
 - [Canva](https://www.canva.com/pt_br/)
 - [GitHub](https://github.com/)
 - [Jira](https://id.atlassian.com/)
+- [Slack](https://slack.com/intl/pt-br)
  
 # Backlog do produto
  
 <div align="center">
    
-![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)
+![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)**FAZER**
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)**FAZER**
 
 # *Dashboard*
 
-https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9
+https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9**FAZER**
 
 # *Dashboard - Retirados*
-![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)
+![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**
 
 
 
-## Sprint 1. Concepção
+## Sprint 1. Concepção **FAZER**
 - [x] Análise de planilhas/dados;
 - [x] Cruzar dados;
 - [x] Calcular quociente valor-peso;
@@ -134,7 +135,7 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 - [x] Workshop PowerBI;
 - [x] 5W2H.
      
-## Sprint 2. Concepção
+## Sprint 2. Concepção **FAZER**
 - [x] Relatório - Formatação;
 - [x] 5W2H;
 - [x] Atualizar Documentação - Sprint 1;
@@ -148,7 +149,7 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 - [x] Pesquisar sobre as potenciais cargas do porto;
 - [x] Elaborar próximo E-mail.
 
-## Sprint 3. Concepção
+## Sprint 3. Concepção **FAZER**
 - [x] Colocar valor-peso em R$/Kg;
 - [x] Diminuir a seleção de cidades;
 - [x] Análise de SWOT;
@@ -160,7 +161,7 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 - [x] Retirada das cargas de peso 0.
 
 
-# Competências desenvolvidas
+# Competências desenvolvidas **FAZER**
 
 ## Hard Skills (saber tecnológico)
 <details>
@@ -174,6 +175,7 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
