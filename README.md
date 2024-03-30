@@ -50,6 +50,7 @@ Sprint | Previsão | Status| Histórico|
 # *Equipe*
 
 
+![EQUIPE](https://github.com/ApiLogistica2sem/API/assets/163214077/98163980-2f7c-4edb-8d08-237b9b82e85e)
 
 # Objetivo do Projeto
 Missão: A LOGFREE tem como objetivo buscar atender as demandas dos variados tipos de modais utilizando ferramentas digitais para demonstrar o fluxo de movimentação de cargas no Brasil.
