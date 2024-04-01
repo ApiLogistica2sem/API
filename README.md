@@ -4,7 +4,7 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
-# Índice
+# _Índice_
 
 * [Projeto](#projeto-(api))
 * [Sprints](#sprints)
@@ -23,12 +23,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Departamentalização](#Departamentalização)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
-# Projeto (API)
+# _Projeto (API)_
 Projeto pedagógico alicerçado na Metodologia Ágil para ensino-aprendizado, focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL); validação externa e mentalidade ágil.
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO).
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
 
-# Sprints
+# _Sprints_
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Em andamento | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171948/RELATORIO.SPRINT.0.pdf)|
@@ -38,7 +38,7 @@ Sprint | Previsão | Status| Histórico|
 |04| 17/06/2024 | Pendente |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13462436/RELATORIO.SPRINT.03.pdf)|
 |Feira de Soluções|27/06/2024 | Pendente |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 
-# Autores
+# _Autores_
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   GUSTAVO NOVAKOSKI         |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)               |
@@ -102,7 +102,7 @@ Sprint 3
 - [Jira](https://id.atlassian.com/)
 - [Slack](https://slack.com/intl/pt-br)
  
-# Backlog do produto
+# _Backlog do produto_
  
 <div align="center">
    
