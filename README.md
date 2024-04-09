@@ -78,7 +78,7 @@ Sprint 3
 
 
 # *Tecnologias Utilizadas*
-![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/ca00c79d-45c1-411e-b3df-35144a89dc48)
+![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)
 
 - [Jira](https://id.atlassian.com/)
 - [GitHub](https://github.com/)
