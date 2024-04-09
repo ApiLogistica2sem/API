@@ -114,42 +114,16 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 # *Dashboard - Retirados*
 ![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**
 
-## Sprint 1. Concepção **FAZER**
+## Sprint 1. Concepção
 - [x] Análise de planilhas/dados;
 - [x] Cruzar dados;
-- [x] Calcular quociente valor-peso;
-- [x] Escolha cores e fontes;
+- [x] Linha de tendência;
 - [x] Criação de identidade visual;
 - [x] Rascunho Dashboard;
 - [x] Workshop Jira;
 - [x] Workshop GitHub;
 - [x] Workshop PowerBI;
 - [x] 5W2H.
-     
-## Sprint 2. Concepção **FAZER**
-- [x] Relatório - Formatação;
-- [x] 5W2H;
-- [x] Atualizar Documentação - Sprint 1;
-- [x] Atualizar Documentação - Sprint 2;
-- [x] Organizar próxima apreentação;
-- [x] Dar forma ao produto;
-- [x] Explicar ao cliente a questão de cargas com peso zero;
-- [x] Adaptar filtros à necessidade do cliente;
-- [x] Avaliar indicadores das melhores áreas;
-- [x] Atualizar design do dashboard;
-- [x] Pesquisar sobre as potenciais cargas do porto;
-- [x] Elaborar próximo E-mail.
-
-## Sprint 3. Concepção **FAZER**
-- [x] Colocar valor-peso em R$/Kg;
-- [x] Diminuir a seleção de cidades;
-- [x] Análise de SWOT;
-- [x] Departamentalização;
-- [x] Histórico de movimentação de cargas;
-- [x] 5W2H - Sprint 3
-- [x] Relatório - Sprint 3;
-- [x] Criar estimativas;
-- [x] Retirada das cargas de peso 0.
 
 
 # Competências desenvolvidas **FAZER**
@@ -170,17 +144,18 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
  
 </details>
 
-## Soft Skills (saber comportamental)
+# Soft Skills (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
