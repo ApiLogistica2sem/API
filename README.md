@@ -78,8 +78,15 @@ Sprint 3
 
 
 # *Tecnologias Utilizadas*
-![Capturar](https://github.com/ApiLogistica2sem/API/assets/163214077/5b92117c-72e5-4b8e-978a-3b5783d8a23c)
+![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/ca00c79d-45c1-411e-b3df-35144a89dc48)
 
+- [Jira](https://id.atlassian.com/)
+- [GitHub](https://github.com/)
+- [Slack](https://slack.com/intl/pt-br)
+- [Power BI](https://app.powerbi.com/)
+- [Pacote Office](https://www.microsoft.com/)
+- [Teams](https://teams.microsoft.com/)
+- [Canva](https://www.canva.com/pt_br/)
 
 
  # Burndown
@@ -91,16 +98,6 @@ Sprint 3
 
 # Sprint 03
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)**FAZER**
-
-
- ### Tecnologias Específicas de Apoio
-- [Power BI](https://app.powerbi.com/)
-- [Pacote Office](https://www.microsoft.com/)
-- [Teams](https://teams.microsoft.com/)
-- [Canva](https://www.canva.com/pt_br/)
-- [GitHub](https://github.com/)
-- [Jira](https://id.atlassian.com/)
-- [Slack](https://slack.com/intl/pt-br)
  
 # _Backlog do produto_
  
