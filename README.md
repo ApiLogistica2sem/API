@@ -61,7 +61,8 @@ Visão: Com o mais alto nivel de tecnologia, a LOGFREE objetiva se manter no top
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia.
 
 # *Análise SWOT da Empresa*
-![MicrosoftTeams-image (1)](https://github.com/LogThink1/logthink_documentacao/assets/144967585/50e54821-be43-4437-ab7c-cc0cf658add6) **FAZER**
+![SWOT](https://github.com/ApiLogistica2sem/API/assets/163214077/f6b64a7d-f0e5-4150-8348-bcc9ac3d7240)
+
 
 
 # *5W2H*
@@ -89,7 +90,7 @@ Sprint 3
 - [Canva](https://www.canva.com/pt_br/)
 
 
- # Burndown
+# Burndown
 # Sprint 01
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**
 
@@ -99,7 +100,7 @@ Sprint 3
 # Sprint 03
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)**FAZER**
  
-# _Backlog do produto_
+# *Backlog do produto*
  
 <div align="center">
    
@@ -112,8 +113,6 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 
 # *Dashboard - Retirados*
 ![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**
-
-
 
 ## Sprint 1. Concepção **FAZER**
 - [x] Análise de planilhas/dados;
@@ -155,7 +154,7 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 
 # Competências desenvolvidas **FAZER**
 
-## Hard Skills (saber tecnológico)
+# Hard Skills (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
  
