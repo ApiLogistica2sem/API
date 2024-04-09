@@ -61,7 +61,8 @@ Visão: Com o mais alto nivel de tecnologia, a LOGFREE objetiva se manter no top
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia.
 
 # *Análise SWOT da Empresa*
-![SWOT](https://github.com/ApiLogistica2sem/API/assets/163214077/f6b64a7d-f0e5-4150-8348-bcc9ac3d7240)
+![SWOT](https://github.com/ApiLogistica2sem/API/assets/163214077/e5ba2c86-cb41-4b5a-a3bc-3434d72da7cb)
+
 
 
 
