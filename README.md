@@ -68,13 +68,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # *5W2H*
 Sprint 1
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13193717/5W2H.xlsx) **FAZER**
-
-Sprint 2
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13232863/5W2H.xlsx) **FAZER**
-
-Sprint 3
-[5W2H.xlsx](https://github.com/LogThink1/logthink_documentacao/files/13462343/5W2H.xlsx) **FAZER**
+![5W2H](https://github.com/ApiLogistica2sem/API/assets/163214077/63547eba-1ba8-4ac2-9a76-014b25984deb)
 
 
 
