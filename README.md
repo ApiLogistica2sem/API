@@ -31,8 +31,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # _Sprints_
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | Em andamento | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171948/RELATORIO.SPRINT.0.pdf)|
-|01 | 15/04/2024 | Pendente | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171960/RELATORIO.SPRINT.01.pdf) |
+|Kick Off | 11/03/2024 | Concluído | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171948/RELATORIO.SPRINT.0.pdf)|
+|01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171960/RELATORIO.SPRINT.01.pdf) |
 |02|  06/05/2024| Pendente |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13171972/Relatorio_Sprint_02_pdf.pdf)|
 |03| 27/05/2024 | Pendente |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13462436/RELATORIO.SPRINT.03.pdf)|
 |04| 17/06/2024 | Pendente |[Ver Relatório](https://github.com/LogThink1/logthink_documentacao/files/13462436/RELATORIO.SPRINT.03.pdf)|
