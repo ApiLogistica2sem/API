@@ -96,11 +96,11 @@ Sprint 1
 ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)**FAZER**
  
 # *Backlog do produto*
- 
+ ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
+
 <div align="center">
    
-![épicos](https://github.com/LogThink1/logthink_documentacao/assets/144967585/5255c57e-044b-4221-8e4f-aee1e3f62dda)**FAZER**
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/293a24e9-6802-4f26-94f3-316058dc0378)**FAZER**
+
 
 # *Dashboard*
 
