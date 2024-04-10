@@ -67,8 +67,7 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 # *5W2H*
 Sprint 1
-![5W2H](https://github.com/ApiLogistica2sem/API/assets/163214077/63547eba-1ba8-4ac2-9a76-014b25984deb)
-
+[5W2H LOGFREE.xlsx](https://github.com/ApiLogistica2sem/API/files/14938760/5W2H.LOGFREE.xlsx)
 
 
 
