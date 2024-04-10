@@ -16,7 +16,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Dashboard](#Dashboard)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Backlog](#backlog-do-produto)
-* [TEA](#tecnologias-específicas-de-apoio)
 * [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
 * [SWOT](#Análise-SWOT-da-Empresa)
@@ -50,7 +49,7 @@ Sprint | Previsão | Status| Histórico|
 # *Equipe*
 
 
-<center>![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)</center>
+![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)
 
 
 
@@ -62,9 +61,9 @@ Visão: Com o mais alto nivel de tecnologia, a LOGFREE objetiva se manter no top
 Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia.
 
 # *Análise SWOT da Empresa*
+
+
 ![SWOT](https://github.com/ApiLogistica2sem/API/assets/163214077/e5ba2c86-cb41-4b5a-a3bc-3434d72da7cb)
-
-
 
 
 # *5W2H*
@@ -75,7 +74,7 @@ Sprint 1
 
 
 # *Tecnologias Utilizadas*
-<center>![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)</center>
+![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)
 
 - [Jira](https://id.atlassian.com/)
 - [GitHub](https://github.com/)
@@ -88,21 +87,18 @@ Sprint 1
 
 # *Burndown*
 # Sprint 01
-<center>![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**</center>
- 
+![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**
 # *Backlog do produto*
  ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
-
-<div align="center">
-   
+  
 
 
 # *Dashboard*
 
-https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9**FAZER**
+**FAZER**
 
 # *Dashboard - Retirados*
-<center>![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**</center>
+**FAZER**
 
 ## Sprint 1. Concepção
 - [x] Análise de planilhas/dados;
@@ -149,3 +145,4 @@ https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a
 | Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
+
