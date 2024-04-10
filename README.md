@@ -50,7 +50,7 @@ Sprint | Previsão | Status| Histórico|
 # *Equipe*
 
 
-![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)
+<center>![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)</center>
 
 
 
@@ -75,7 +75,7 @@ Sprint 1
 
 
 # *Tecnologias Utilizadas*
-![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)
+<center>![Tecnologias](https://github.com/ApiLogistica2sem/API/assets/163214077/5fe7ca89-f449-4508-8409-1b2af7eabeae)</center>
 
 - [Jira](https://id.atlassian.com/)
 - [GitHub](https://github.com/)
@@ -86,15 +86,9 @@ Sprint 1
 - [Canva](https://www.canva.com/pt_br/)
 
 
-# Burndown
+# *Burndown*
 # Sprint 01
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**
-
-# Sprint 02
- ![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/10c5b03e-3f82-4d6a-b7b8-e97c232ea4df)**FAZER**
-
-# Sprint 03
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/7f8866bb-8a1e-4506-b2d6-0f57dbcad25c)**FAZER**
+<center>![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**</center>
  
 # *Backlog do produto*
  ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
@@ -108,7 +102,7 @@ Sprint 1
 https://github.com/LogThink1/logthink_documentacao/assets/144967585/54d6a3f6-56a4-422c-a211-9b997bf370d9**FAZER**
 
 # *Dashboard - Retirados*
-![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**
+<center>![Dash](https://github.com/LogThink1/logthink_documentacao/assets/144967585/a74ef0ec-1113-4c04-ad4d-8b74f59e037c)**FAZER**</center>
 
 ## Sprint 1. Concepção
 - [x] Análise de planilhas/dados;
