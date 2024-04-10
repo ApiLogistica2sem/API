@@ -50,7 +50,8 @@ Sprint | Previsão | Status| Histórico|
 # *Equipe*
 
 
-![EQUIPE](https://github.com/ApiLogistica2sem/API/assets/163214077/98163980-2f7c-4edb-8d08-237b9b82e85e)
+![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)
+
 
 
 # _Objetivo do Projeto_
