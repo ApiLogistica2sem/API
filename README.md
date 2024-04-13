@@ -57,7 +57,14 @@ Missão: A LOGFREE tem como objetivo buscar atender as demandas dos variados tip
 
 Visão: Com o mais alto nivel de tecnologia, a LOGFREE objetiva se manter no topo do cenário nacional como uma organização estruturada para atender as variadas demandas do mercado atual.
 
-Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agilidade; 6. Efetividade; 7. Inovação e tecnologia.
+Valores: 
+1. Ética;
+2. Respeito;
+3. Transparência;
+4. Responsabilidade;
+5. Agilidade;
+6. Efetividade;
+7. Inovação e tecnologia.
 
 # *Análise SWOT da Empresa*
 
