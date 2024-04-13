@@ -92,11 +92,9 @@ Valores: 1. Ética; 2. Respeito; 3. Transparência; 4. Responsabilidade; 5. Agil
 
 
 # *Dashboard*
+![Dashboard 01](https://github.com/ApiLogistica2sem/API/assets/163214077/8ee281cb-c036-4b9e-9ff2-56f5fd8c4c78)
 
-**FAZER**
 
-# *Dashboard - Retirados*
-**FAZER**
 
 ## Sprint 1. Concepção
 - [x] Análise de planilhas/dados;
