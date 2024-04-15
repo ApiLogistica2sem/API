@@ -95,7 +95,7 @@ Valores:
 
 # *Burndown*
 # Sprint 01
-![image](https://github.com/LogThink1/logthink_documentacao/assets/144967585/f24de487-a2f6-42e8-9ee6-b904db3492aa)**FAZER**
+
 # *Backlog do produto*
  ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
   
