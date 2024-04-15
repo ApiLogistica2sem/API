@@ -73,7 +73,10 @@ Valores:
 
 
 # *5W2H*
-![5W2H LOGFREE](https://github.com/ApiLogistica2sem/API/assets/163214077/c9de6a2d-d512-46c6-a3c4-fa67acb45332)
+![5W2H](https://github.com/ApiLogistica2sem/API/assets/163214077/1b3ab9c3-6b4f-40f9-94c7-242a75139731)
+* [5W25H Arquivo](https://github.com/ApiLogistica2sem/API/files/14983847/5W2H.LOGFREE.xlsx)
+
+
 
 
 
