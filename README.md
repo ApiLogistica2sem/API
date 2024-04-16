@@ -102,7 +102,6 @@ Valores:
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 - [ ] Estudo sobre suavização exponencial;
 - [ ] Estudo sobre linhas de tendencias.
 - [ ] Documentar todas as informações e processos;
@@ -123,6 +122,7 @@ Valores:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 - [ ] Análise de países que são os melhores parceiros comerciais;
 - [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 
 # *Burndown*
 # Sprint 01
