@@ -93,10 +93,6 @@ Valores:
 - [Canva](https://www.canva.com/pt_br/)
 
 
-# *Backlog do produto*
- ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
-
-
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
