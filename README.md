@@ -97,37 +97,36 @@ Valores:
  ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
 
 
-## Sprint um:
+## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
 - [x] Definição da estrutura de trabalho;
-- [x] Estruturação dos próximos sprints no Jira;
-- [x] Reunião sobre o entendimento das ferramentas do projeto;
-- [x] Documentar todas as informações e processos;
 - [x] Analíse SWOT;
 - [x] Desenvolvimento 5W2H. 
+- [x] Documentar todas as informações e processos;
      
-## Sprint dois:
-- [x] Definir KPI´s de acordo com a demanda do cliente;
-- [x] Documentar todas as informações e processos;
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Estudo sobre suavização exponencial.
+## *Sprint dois*:
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Estudo sobre suavização exponencial;
+- [ ] Estudo sobre linhas de tendencias.
+- [ ] Documentar todas as informações e processos;
 
-## Sprint três:
-- [x] Identificação e estudo dos modais;
-- [x] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
-- [x] Documentar todas as informações e processos;
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Análise de países que são os melhores parceiros comerciais;
-- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+## *Sprint três*:
+- [ ] Identificação e estudo dos modais;
+- [ ] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
+- [ ] Documentar todas as informações e processos;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Análise de países que são os melhores parceiros comerciais;
+- [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+- [ ] Desenvolver a linha de tendência no produto.
 
-## Sprint quatro:
-- [x] Identificação e estudo dos modais;
-- [x] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
-- [x] Documentar todas as informações e processos;
-- [x] Ajuste do dashboard de acordo com resoluções do cliente;
-- [x] Análise de países que são os melhores parceiros comerciais;
-- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+## *Sprint quatro*:
+- [ ] Identificação e estudo dos modais;
+- [ ] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
+- [ ] Documentar todas as informações e processos;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Análise de países que são os melhores parceiros comerciais;
+- [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
 
 # *Burndown*
 # Sprint 01
