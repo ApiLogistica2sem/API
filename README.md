@@ -93,29 +93,47 @@ Valores:
 - [Canva](https://www.canva.com/pt_br/)
 
 
+# *Backlog do produto*
+ ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
+
+
+## Sprint um:
+- [x] Estruturação do GitHub.
+- [x] Estruturação do Jira Software;
+- [x] Definição da estrutura de trabalho;
+- [x] Estruturação dos próximos sprints no Jira;
+- [x] Reunião sobre o entendimento das ferramentas do projeto;
+- [x] Documentar todas as informações e processos;
+- [x] Analíse SWOT;
+- [x] Desenvolvimento 5W2H. 
+     
+## Sprint dois:
+- [x] Definir KPI´s de acordo com a demanda do cliente;
+- [x] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Estudo sobre suavização exponencial.
+
+## Sprint três:
+- [x] Identificação e estudo dos modais;
+- [x] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
+- [x] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Análise de países que são os melhores parceiros comerciais;
+- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+
+## Sprint quatro:
+- [x] Identificação e estudo dos modais;
+- [x] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
+- [x] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Análise de países que são os melhores parceiros comerciais;
+- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+
 # *Burndown*
 # Sprint 01
 
-# *Backlog do produto*
- ![BACK](https://github.com/ApiLogistica2sem/API/assets/163214077/c249b79e-0f54-4eee-83fa-6e89a7575c81)
-  
-
-
 # *Dashboard*
 ![Dashboard 01](https://github.com/ApiLogistica2sem/API/assets/163214077/8ee281cb-c036-4b9e-9ff2-56f5fd8c4c78)
-
-
-
-## Sprint 1. Concepção
-- [x] Análise de planilhas/dados;
-- [x] Cruzar dados;
-- [x] Linha de tendência;
-- [x] Criação de identidade visual;
-- [x] Rascunho Dashboard;
-- [x] Workshop Jira;
-- [x] Workshop GitHub;
-- [x] Workshop PowerBI;
-- [x] 5W2H.
 
 
 # Competências desenvolvidas **FAZER**
