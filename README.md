@@ -41,7 +41,7 @@ Sprint | Previsão | Status| Histórico|
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   GUSTAVO NOVAKOSKI         |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-novakoski-759839252) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoNovakoski)               |
 | Scrum Master  | MATHEUS REIS |       [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-reis-82b571161) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheus2208)     |
-| Developer   | CAUÊ SANTOS              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)|
+| Developer   | CAUÊ SANTOS              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caue-santos-a01228288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)|
 | Developer   | CÍCERO BORGES              |          [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%ADcero-borges-04953a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CiceroAborges)        |
 |  Developer   | CARLOS GIOVANNI       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-giovanni-2693601ba/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carlosgiovanni2001)
 |  Developer   | VINÍCIUS RODOLFO      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-rodolfo) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ViniciusRSS)
@@ -49,7 +49,9 @@ Sprint | Previsão | Status| Histórico|
 # *Equipe*
 
 
-![Equipe](https://github.com/ApiLogistica2sem/API/assets/163214077/c591bfae-b417-4c82-bb06-715172b4b548)
+![Equipe ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/c584e30d-8d45-4e58-a153-a5aaf7039fbe)
+
+
 
 
 
