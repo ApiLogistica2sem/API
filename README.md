@@ -76,10 +76,13 @@ Valores:
 
 
 # *5W2H*
+*1ª Sprint*
 ![5W2H](https://github.com/ApiLogistica2sem/API/assets/163214077/1b3ab9c3-6b4f-40f9-94c7-242a75139731)
-* [5W25H Arquivo](https://github.com/ApiLogistica2sem/API/files/14983847/5W2H.LOGFREE.xlsx)
+* [5W2H Arquivo](https://github.com/ApiLogistica2sem/API/files/14983847/5W2H.LOGFREE.xlsx)
 
-
+*2ª Sprint*
+![5W2H - 2sprint](https://github.com/ApiLogistica2sem/API/assets/163214077/0d02b899-6aba-46d2-a782-908cc95641ef)
+* [5W2H Arquivo](https://github.com/ApiLogistica2sem/API/files/15223116/5W2H.SPRINT.2.xlsx)
 
 
 
@@ -105,9 +108,11 @@ Valores:
 - [x] Documentar todas as informações e processos;
      
 ## *Sprint dois*:
-- [ ] Estudo sobre suavização exponencial;
-- [ ] Estudo sobre linhas de tendencias.
-- [ ] Documentar todas as informações e processos;
+- [x] Estudo sobre suavização exponencial;
+- [x] Estudo sobre linhas de tendencias.
+- [x] Identificação dos modais;
+- [x] Criação do MVP;
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
 - [ ] Identificação e estudo dos modais;
