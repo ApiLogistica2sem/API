@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Concluído |-----------------| 
 |01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/ApiLogistica2sem/API/files/14968927/RELATORIO.SPRINT.1.LOGFREE.docx)|
-|02|  06/05/2024| Pendente |[Ver Relatório]|
+|02|  06/05/2024| Pendente |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
 |03| 27/05/2024 | Pendente |[Ver Relatório]|
 |04| 17/06/2024 | Pendente |[Ver Relatório]|
 |Feira de Soluções|27/06/2024 | Pendente |[Ver Relatório]|
