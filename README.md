@@ -133,13 +133,19 @@ Valores:
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 
 # *Burndown*
+
 # Sprint 01
 
-# *Dashboard*
 ![Dashboard 01](https://github.com/ApiLogistica2sem/API/assets/163214077/8ee281cb-c036-4b9e-9ff2-56f5fd8c4c78)
 
+# Sprint 02
+![Menu inicial](https://github.com/ApiLogistica2sem/API/assets/163214077/bb1c2ed0-473a-4cb0-883b-77499e741fd0)
+![Exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/918ec20b-43e4-4dff-acbb-1b9e5d2ec807)
+![Gráficos](https://github.com/ApiLogistica2sem/API/assets/163214077/26c8d935-f6dd-4d9c-b307-2a70de1f14c3)
 
-# Competências desenvolvidas **FAZER**
+
+
+# Competências desenvolvidas
 
 # Hard Skills (saber tecnológico)
 <details>
