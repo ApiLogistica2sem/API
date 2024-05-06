@@ -7,18 +7,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # _Índice_
 
 * [Projeto](#projeto (API))
-* [Sprints](#sprints)
 * [Autores](#autores)
 * [Equipe](#equipe)
-* [5W2H](#5W2H)
 * [Objetivo do Projeto](#objetivo-do-projeto)
+* [SWOT](#Análise-SWOT-da-Empresa)
+* [5W2H](#5W2H)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Backlog do produto](#Backlog)
 * [MVP](#MVP)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
-* [SWOT](#Análise-SWOT-da-Empresa)
-* [Departamentalização](#Departamentalização)
 * [Competências desenvolvidas](#Competências-desenvolvidas)
 
 # _Projeto (API)_
