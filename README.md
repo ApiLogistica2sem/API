@@ -12,7 +12,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Equipe](#equipe)
 * [5W2H](#5W2H)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Backlog do produto](#Backlog-do-produto)
+* [Backlog do produto](#Backlog)
 * [MVP](#MVP)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Sprints](#Sprint-1-Concepção)
@@ -98,7 +98,7 @@ Valores:
 - [Teams](https://teams.microsoft.com/)
 - [Canva](https://www.canva.com/pt_br/)
 
-
+# *Backlog*
 ## *Sprint um*:
 - [x] Estruturação do GitHub.
 - [x] Estruturação do Jira Software;
