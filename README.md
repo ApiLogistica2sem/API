@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [5W2H](#5W2H)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do produto](#Backlog-do-produto)
-* [Dashboard](#Dashboard)
+* [MVP](#MVP)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Sprints](#Sprint-1-Concepção)
 * [Gráfico de Burndown](#Burndown)
@@ -132,7 +132,7 @@ Valores:
 - [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
 - [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 
-# *Burndown*
+# *MVP*
 
 # Sprint 01
 
