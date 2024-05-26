@@ -112,22 +112,15 @@ Valores:
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint três*:
-- [ ] Identificação e estudo dos modais;
-- [ ] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
-- [ ] Documentar todas as informações e processos;
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Análise de países que são os melhores parceiros comerciais;
-- [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
-- [ ] Desenvolver a linha de tendência no produto.
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
+- [x] Desenvolver a linha de tendência no produto.
+- [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
-- [ ] Identificação e estudo dos modais;
-- [ ] Compreender e desenhar o fluxo de funcionamento das exportações do estado de SP;
+- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
+- [ ] Apresentação do produto final;
 - [ ] Documentar todas as informações e processos;
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Análise de países que são os melhores parceiros comerciais;
-- [ ] Aplicar a metodologia exponencial de acordo com a demanda acordada com o cliente;
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
 
 # *MVP*
 
@@ -139,6 +132,16 @@ Valores:
 ![Menu inicial](https://github.com/ApiLogistica2sem/API/assets/163214077/bb1c2ed0-473a-4cb0-883b-77499e741fd0)
 ![Exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/918ec20b-43e4-4dff-acbb-1b9e5d2ec807)
 ![Gráficos](https://github.com/ApiLogistica2sem/API/assets/163214077/26c8d935-f6dd-4d9c-b307-2a70de1f14c3)
+
+# Sprint 03
+![Dash inicio ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/7b44007a-f3f9-46f5-a10b-3ded7d295c1a)
+![Dash principal ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/96f4c9ae-3a28-4501-8a18-c40a82e50161)
+![Dash previsões ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/ac5ed26b-ccaa-4797-9a97-caaaa3552ca0)
+![Apresentação dashboard](https://github.com/ApiLogistica2sem/API/assets/163214077/39474458-6f97-42f5-8eba-33b0120a2d96)
+
+# Linha de tendência 
+![GraficoTendencia+equaçao](https://github.com/ApiLogistica2sem/API/assets/163214077/bc14781d-3cc6-4ecd-bf74-4b92c8a22d56)
+
 
 
 
