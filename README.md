@@ -137,10 +137,13 @@ Valores:
 ![Dash inicio ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/7b44007a-f3f9-46f5-a10b-3ded7d295c1a)
 ![Dash principal ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/96f4c9ae-3a28-4501-8a18-c40a82e50161)
 ![Dash previsões ATT](https://github.com/ApiLogistica2sem/API/assets/163214077/ac5ed26b-ccaa-4797-9a97-caaaa3552ca0)
-![Apresentação dashboard](https://github.com/ApiLogistica2sem/API/assets/163214077/39474458-6f97-42f5-8eba-33b0120a2d96)
+- [x] Apresentação Dashboard: https://github.com/ApiLogistica2sem/API/assets/163214077/39474458-6f97-42f5-8eba-33b0120a2d96
 
 # Linha de tendência 
 ![GraficoTendencia+equaçao](https://github.com/ApiLogistica2sem/API/assets/163214077/bc14781d-3cc6-4ecd-bf74-4b92c8a22d56)
+
+# Roteiro Power BI
+- [x] [Passo a passo - Power BI.docx](https://github.com/ApiLogistica2sem/API/files/15449204/Passo.a.passo.-.Power.BI.docx)
 
 
 
