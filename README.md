@@ -82,6 +82,7 @@ Valores:
 * [5W2H Arquivo](https://github.com/ApiLogistica2sem/API/files/15223116/5W2H.SPRINT.2.xlsx)
 
  *3ª Sprint*
+ 
 ![WhatsApp Image 2024-05-26 at 21 21 03](https://github.com/ApiLogistica2sem/API/assets/163214077/f840e8f8-7487-4e7c-9d7c-5c698d2fe1c1)
 
 [5w2h sprint 3.xlsx](https://github.com/ApiLogistica2sem/API/files/15462277/5w2h.sprint.3.xlsx)
