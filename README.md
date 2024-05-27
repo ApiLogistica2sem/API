@@ -152,7 +152,8 @@ Valores:
 ![GraficoTendencia+equaçao](https://github.com/ApiLogistica2sem/API/assets/163214077/bc14781d-3cc6-4ecd-bf74-4b92c8a22d56)
 
 # Roteiro Power BI
-- [x] [Passo a passo - Power BI.docx](https://github.com/ApiLogistica2sem/API/files/15449204/Passo.a.passo.-.Power.BI.docx)
+- [x] [Passo.a.passo.-.Power.BI.docx](https://github.com/ApiLogistica2sem/API/files/15462352/Passo.a.passo.-.Power.BI.docx)
+
 
 
 
