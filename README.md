@@ -153,7 +153,8 @@ Valores:
 # Sprint 04
 ![Dash inicio](https://github.com/ApiLogistica2sem/API/assets/163214077/5abb8b49-c8ed-4d95-987a-91a1ac278591)
 ![Dash exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/23777940-4750-4a9d-b118-be8c2e5636a5)
-![Dash previsões](https://github.com/ApiLogistica2sem/API/assets/163214077/87b3b301-f31e-4ba9-b653-85404c51d24c)
+![Dash previsões](https://github.com/ApiLogistica2sem/API/assets/163214077/fabfac5b-c84b-4690-88ec-9a59062421ee)
+
 
 
 # Roteiro Power BI
