@@ -28,9 +28,9 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 11/03/2024 | Concluído |-----------------| 
 |01 | 15/04/2024 | Concluído | [Ver Relatório](https://github.com/ApiLogistica2sem/API/files/14968927/RELATORIO.SPRINT.1.LOGFREE.docx)|
-|02|  06/05/2024| Pendente |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
-|03| 27/05/2024 | Pendente |[Ver Relatório]|
-|04| 17/06/2024 | Pendente |[Ver Relatório]|
+|02|  06/05/2024| Concluído |[Ver Relatório](https://github.com/ApiLogistica2sem/API/files/15227536/RELATORIO.SPRINT.2.LOGFREE.docx)|
+|03| 27/05/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15878074/RELATORIO.SPRINT.3.LOGFREE.1.docx)|
+|04| 17/06/2024 | Concluído |[Ver Relatório](https://github.com/user-attachments/files/15878071/RELATORIO.SPRINT.4.LOGFREE.docx)|
 |Feira de Soluções|27/06/2024 | Pendente |[Ver Relatório]|
 
 # _Autores_
@@ -84,8 +84,11 @@ Valores:
 *3ª Sprint*
  
 ![WhatsApp Image 2024-05-26 at 21 21 03](https://github.com/ApiLogistica2sem/API/assets/163214077/f840e8f8-7487-4e7c-9d7c-5c698d2fe1c1)
-
 [5w2h sprint 3.xlsx](https://github.com/ApiLogistica2sem/API/files/15462277/5w2h.sprint.3.xlsx)
+
+*4ª Sprint*
+![5W2H 4SPRINT](https://github.com/ApiLogistica2sem/API/assets/163214077/c8034b9e-9ea2-44e5-9599-3e7c8d526412)
+[5w2h sprint 4.xlsx](https://github.com/user-attachments/files/15878049/5w2h.sprint.4.xlsx)
 
 
 
@@ -125,9 +128,9 @@ Valores:
 - [x] Documentar todas as informações e processos;
 
 ## *Sprint quatro*:
-- [ ] Ajuste do dashboard de acordo com resoluções do cliente;
-- [ ] Apresentação do produto final;
-- [ ] Documentar todas as informações e processos;
+- [x] Ajuste do dashboard de acordo com resoluções do cliente;
+- [x] Apresentação do produto final;
+- [x] Documentar todas as informações e processos;
 
 # *MVP*
 
@@ -151,10 +154,6 @@ Valores:
 ![Dash exportações](https://github.com/ApiLogistica2sem/API/assets/163214077/23777940-4750-4a9d-b118-be8c2e5636a5)
 ![Dash previsões](https://github.com/ApiLogistica2sem/API/assets/163214077/87b3b301-f31e-4ba9-b653-85404c51d24c)
 
-
-
-# Linha de tendência 
-![GraficoTendencia+equaçao](https://github.com/ApiLogistica2sem/API/assets/163214077/bc14781d-3cc6-4ecd-bf74-4b92c8a22d56)
 
 # Roteiro Power BI
 - [x] [Passo.a.passo.-.Power.BI.docx](https://github.com/ApiLogistica2sem/API/files/15462352/Passo.a.passo.-.Power.BI.docx)
