@@ -85,11 +85,11 @@ Valores:
 *3ª Sprint*
  
 ![WhatsApp Image 2024-05-26 at 21 21 03](https://github.com/ApiLogistica2sem/API/assets/163214077/f840e8f8-7487-4e7c-9d7c-5c698d2fe1c1)
-[5w2h sprint 3.xlsx](https://github.com/ApiLogistica2sem/API/files/15462277/5w2h.sprint.3.xlsx)
+* [5w2h sprint 3.xlsx](https://github.com/ApiLogistica2sem/API/files/15462277/5w2h.sprint.3.xlsx)
 
 *4ª Sprint*
 ![5W2H 4SPRINT](https://github.com/ApiLogistica2sem/API/assets/163214077/c8034b9e-9ea2-44e5-9599-3e7c8d526412)
-[5w2h sprint 4.xlsx](https://github.com/user-attachments/files/15878049/5w2h.sprint.4.xlsx)
+* [5w2h sprint 4.xlsx](https://github.com/user-attachments/files/15878049/5w2h.sprint.4.xlsx)
 
 
 
@@ -158,7 +158,8 @@ Valores:
 
 
 # Roteiro Power BI
-- [x] [Passo.a.passo.-.Power.BI.docx](https://github.com/ApiLogistica2sem/API/files/15462352/Passo.a.passo.-.Power.BI.docx)
+- [x] [Passo a passo - Power.BI.docx](https://github.com/user-attachments/files/15980237/Passo.a.passo.-.Power.BI.docx)
+
 
 
 
